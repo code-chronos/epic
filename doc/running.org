@@ -91,7 +91,7 @@ The following steps explain how to install and run the epic server:
 
 3. Copy the foundation.json file in the unzipped package directory and paste it in the '/home/user/.epic/main' directory.
 
-4. Open the epic-server.toml file in your text editor and look for 'foundation_path', change the file locations to match the newly copied foundation.json location, i.e., src_shell{/home/user/.epic/main}. 
+4. Open the epic-server.toml file in your text editor and look for 'foundation_path', change the file locations to match the newly copied foundation.json location, i.e., src_sh{/home/user/.epic/main}. 
     
     After editing it should look similar to the below snippet.
 
